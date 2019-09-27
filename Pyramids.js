@@ -94,6 +94,6 @@ function inverted_print_pyramid( desired_number_of_levels, given_pyramid_charact
 // Here is the 'main' program, which consists of calls
 // to the above function.
 
-print_pyramid( 20,'x' ) ;  // print a pyramid with 18 levels
-inverted_print_pyramid( 20,'o' ) ;  // print a smaller pyramid
+print_pyramid( 12,'x' ) ;  // print a pyramid with 18 levels
+inverted_print_pyramid( 12,'o' ) ;  // print a smaller pyramid
 
